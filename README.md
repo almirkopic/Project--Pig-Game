@@ -1,6 +1,6 @@
 # Project--Pig-Game
 
-![pigame](pigame.jpb)
+![pigame](pigame.jpg)
 
 # Dice Game
 
