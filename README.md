@@ -1,4 +1,4 @@
-# Project--Pig-Game
+# Project
 
 ![pigame](pigame.jpg)
 
